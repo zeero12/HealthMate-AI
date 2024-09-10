@@ -1,0 +1,127 @@
+Disease,Specialization,Doctor,User Rating,Severity,Days with Disease,Free Time
+Fungal infection,Dermatologist,Dr. Smith,4.5,Mild,10,2024-04-26 11:00:00
+Fungal infection,Dermatologist,Dr. Johnson,4.7,Moderate,15,2024-05-02 13:00:00
+Fungal infection,Dermatologist,Dr. Brown,4.2,Severe,20,2024-04-23 16:00:00
+Allergy,Allergist,Dr. Anderson,4.8,Mild,7,2024-04-27 17:00:00
+Allergy,Allergist,Dr. Martinez,4.6,Moderate,12,2024-04-28 17:00:00
+Allergy,Allergist,Dr. Wilson,4.3,Severe,18,2024-04-24 17:00:00
+GERD,Gastroenterologist,Dr. Garcia,4.5,Mild,10,2024-04-25 12:00:00
+GERD,Gastroenterologist,Dr. Thomas,4.7,Moderate,15,2024-04-23 11:00:00
+GERD,Gastroenterologist,Dr. Rodriguez,4.2,Severe,20,2024-04-26 10:00:00
+Chronic cholestasis,Hepatologist,Dr. Perez,4.6,Mild,12,2024-04-23 09:00:00
+Chronic cholestasis,Hepatologist,Dr. Nguyen,4.8,Moderate,17,2024-04-30 14:00:00
+Chronic cholestasis,Hepatologist,Dr. Lee,4.4,Severe,22,2024-04-29 16:00:00
+Drug Reaction,Internal Medicine Specialist,Dr. White,4.7,Mild,8,2024-05-01 09:00:00
+Drug Reaction,Internal Medicine Specialist,Dr. Taylor,4.5,Moderate,13,2024-05-03 09:00:00
+Drug Reaction,Internal Medicine Specialist,Dr. Hernandez,4.1,Severe,19,2024-04-30 11:00:00
+Peptic ulcer disease,Gastroenterologist,Dr. Kim,4.6,Mild,9,2024-04-29 13:00:00
+Peptic ulcer disease,Gastroenterologist,Dr. Martinez,4.8,Moderate,14,2024-04-25 10:00:00
+Peptic ulcer disease,Gastroenterologist,Dr. Brown,4.3,Severe,20,2024-05-03 15:00:00
+AIDS,Infectious Disease Specialist,Dr. Jones,4.7,Mild,7,2024-04-30 10:00:00
+AIDS,Infectious Disease Specialist,Dr. Anderson,4.5,Moderate,12,2024-04-26 14:00:00
+AIDS,Infectious Disease Specialist,Dr. Wilson,4.2,Severe,18,2024-04-23 11:00:00
+Diabetes,Endocrinologist,Dr. Perez,4.5,Mild,10,2024-04-24 13:00:00
+Diabetes,Endocrinologist,Dr. Nguyen,4.7,Moderate,15,2024-04-25 13:00:00
+Diabetes,Endocrinologist,Dr. Lee,4.2,Severe,20,2024-05-03 15:00:00
+Gastroenteritis,Gastroenterologist,Dr. Garcia,4.6,Mild,12,2024-04-29 14:00:00
+Gastroenteritis,Gastroenterologist,Dr. Thomas,4.8,Moderate,17,2024-04-28 15:00:00
+Gastroenteritis,Gastroenterologist,Dr. Rodriguez,4.4,Severe,22,2024-04-25 15:00:00
+Bronchial Asthma,Pulmonologist,Dr. White,4.7,Mild,8,2024-04-29 16:00:00
+Bronchial Asthma,Pulmonologist,Dr. Taylor,4.5,Moderate,13,2024-04-24 10:00:00
+Bronchial Asthma,Pulmonologist,Dr. Hernandez,4.1,Severe,19,2024-05-02 10:00:00
+Hypertension,Cardiologist,Dr. Kim,4.6,Mild,9,2024-05-01 12:00:00
+Hypertension,Cardiologist,Dr. Martinez,4.8,Moderate,14,2024-05-03 13:00:00
+Hypertension,Cardiologist,Dr. Brown,4.3,Severe,20,2024-05-02 17:00:00
+Migraine,Neurologist,Dr. Jones,4.7,Mild,7,2024-05-01 12:00:00
+Migraine,Neurologist,Dr. Anderson,4.5,Moderate,12,2024-05-03 15:00:00
+Migraine,Neurologist,Dr. Wilson,4.2,Severe,18,2024-05-03 14:00:00
+Cervical spondylosis,Orthopedic Surgeon,Dr. Perez,4.5,Mild,10,2024-04-26 16:00:00
+Cervical spondylosis,Orthopedic Surgeon,Dr. Nguyen,4.7,Moderate,15,2024-04-25 14:00:00
+Cervical spondylosis,Orthopedic Surgeon,Dr. Lee,4.2,Severe,20,2024-04-30 12:00:00
+Paralysis (brain hemorrhage),Neurologist,Dr. Garcia,4.6,Mild,12,2024-04-29 15:00:00
+Paralysis (brain hemorrhage),Neurologist,Dr. Thomas,4.8,Moderate,17,2024-04-23 12:00:00
+Paralysis (brain hemorrhage),Neurologist,Dr. Rodriguez,4.4,Severe,22,2024-04-28 12:00:00
+Jaundice,Hepatologist,Dr. White,4.7,Mild,8,2024-05-02 17:00:00
+Jaundice,Hepatologist,Dr. Taylor,4.5,Moderate,13,2024-04-27 11:00:00
+Jaundice,Hepatologist,Dr. Hernandez,4.1,Severe,19,2024-05-02 11:00:00
+Malaria,Infectious Disease Specialist,Dr. Kim,4.6,Mild,9,2024-04-30 16:00:00
+Malaria,Infectious Disease Specialist,Dr. Martinez,4.8,Moderate,14,2024-04-25 17:00:00
+Malaria,Infectious Disease Specialist,Dr. Brown,4.3,Severe,20,2024-04-26 09:00:00
+Chickenpox,Infectious Disease Specialist,Dr. Jones,4.7,Mild,7,2024-05-01 13:00:00
+Chickenpox,Infectious Disease Specialist,Dr. Anderson,4.5,Moderate,12,2024-04-25 17:00:00
+Chickenpox,Infectious Disease Specialist,Dr. Wilson,4.2,Severe,18,2024-05-03 16:00:00
+Dengue,Infectious Disease Specialist,Dr. Perez,4.5,Mild,10,2024-04-28 13:00:00
+Dengue,Infectious Disease Specialist,Dr. Nguyen,4.7,Moderate,15,2024-04-25 16:00:00
+Dengue,Infectious Disease Specialist,Dr. Lee,4.2,Severe,20,2024-04-25 17:00:00
+Typhoid,Infectious Disease Specialist,Dr. Garcia,4.6,Mild,12,2024-05-02 11:00:00
+Typhoid,Infectious Disease Specialist,Dr. Thomas,4.8,Moderate,17,2024-04-28 16:00:00
+Typhoid,Infectious Disease Specialist,Dr. Rodriguez,4.4,Severe,22,2024-04-27 14:00:00
+Hepatitis A,Hepatologist,Dr. White,4.7,Mild,8,2024-04-30 13:00:00
+Hepatitis A,Hepatologist,Dr. Taylor,4.5,Moderate,13,2024-04-27 11:00:00
+Hepatitis A,Hepatologist,Dr. Hernandez,4.1,Severe,19,2024-04-28 14:00:00
+Hepatitis B,Hepatologist,Dr. Kim,4.6,Mild,9,2024-04-29 13:00:00
+Hepatitis B,Hepatologist,Dr. Martinez,4.8,Moderate,14,2024-04-30 13:00:00
+Hepatitis B,Hepatologist,Dr. Brown,4.3,Severe,20,2024-04-26 13:00:00
+Hepatitis C,Hepatologist,Dr. Jones,4.7,Mild,7,2024-04-29 14:00:00
+Hepatitis C,Hepatologist,Dr. Anderson,4.5,Moderate,12,2024-04-24 16:00:00
+Hepatitis C,Hepatologist,Dr. Wilson,4.2,Severe,18,2024-04-26 10:00:00
+Hepatitis D,Hepatologist,Dr. Perez,4.5,Mild,10,2024-04-24 09:00:00
+Hepatitis D,Hepatologist,Dr. Nguyen,4.7,Mild,15,2024-04-24 09:00:00
+Hepatitis D,Hepatologist,Dr. Lee,4.2,Moderate,20,2024-05-03 16:00:00
+Hepatitis E,Hepatologist,Dr. Thomas,4.8,Mild,17,2024-05-03 12:00:00
+Hepatitis E,Hepatologist,Dr. Rodriguez,4.4,Moderate,22,2024-04-30 14:00:00
+Hepatitis E,Hepatologist,Dr. White,4.7,Severe,28,2024-04-23 15:00:00
+Alcoholic hepatitis,Hepatologist,Dr. Martinez,4.6,Mild,12,2024-04-24 12:00:00
+Alcoholic hepatitis,Hepatologist,Dr. Brown,4.8,Moderate,17,2024-04-26 15:00:00
+Alcoholic hepatitis,Hepatologist,Dr. Jones,4.3,Severe,22,2024-04-26 09:00:00
+Tuberculosis,Pulmonologist,Dr. Anderson,4.7,Mild,10,2024-04-29 17:00:00
+Tuberculosis,Pulmonologist,Dr. Wilson,4.5,Moderate,15,2024-04-26 14:00:00
+Tuberculosis,Pulmonologist,Dr. Perez,4.2,Severe,20,2024-04-25 17:00:00
+Common Cold,General Practitioner,Dr. Taylor,4.6,Mild,14,2024-05-02 09:00:00
+Common Cold,General Practitioner,Dr. Hernandez,4.8,Moderate,19,2024-04-27 14:00:00
+Common Cold,General Practitioner,Dr. Kim,4.3,Severe,24,2024-04-30 15:00:00
+Pneumonia,Pulmonologist,Dr. Brown,4.7,Mild,11,2024-05-03 13:00:00
+Pneumonia,Pulmonologist,Dr. Jones,4.5,Moderate,16,2024-05-03 10:00:00
+Pneumonia,Pulmonologist,Dr. Anderson,4.2,Severe,21,2024-04-23 13:00:00
+Dimorphic hemmorhoids(piles),Proctologist,Dr. Wilson,4.6,Mild,13,2024-04-29 16:00:00
+Dimorphic hemmorhoids(piles),Proctologist,Dr. Perez,4.8,Moderate,18,2024-04-25 12:00:00
+Dimorphic hemmorhoids(piles),Proctologist,Dr. Nguyen,4.3,Severe,23,2024-05-01 16:00:00
+Heart attack,Cardiologist,Dr. Rodriguez,4.7,Mild,10,2024-04-25 13:00:00
+Heart attack,Cardiologist,Dr. White,4.5,Moderate,15,2024-04-27 14:00:00
+Heart attack,Cardiologist,Dr. Taylor,4.2,Severe,20,2024-04-23 15:00:00
+Varicose veins,Cardiologist,Dr. Hernandez,4.6,Mild,12,2024-04-23 12:00:00
+Varicose veins,Cardiologist,Dr. Kim,4.8,Moderate,17,2024-04-27 15:00:00
+Varicose veins,Cardiologist,Dr. Martinez,4.4,Severe,22,2024-05-01 14:00:00
+Hypothyroidism,Endocrinologist,Dr. Brown,4.7,Mild,9,2024-04-28 15:00:00
+Hypothyroidism,Endocrinologist,Dr. Jones,4.5,Moderate,14,2024-04-30 12:00:00
+Hypothyroidism,Endocrinologist,Dr. Anderson,4.2,Severe,19,2024-04-29 10:00:00
+Hyperthyroidism,Endocrinologist,Dr. Wilson,4.6,Mild,12,2024-04-28 16:00:00
+Hyperthyroidism,Endocrinologist,Dr. Perez,4.8,Moderate,17,2024-04-28 13:00:00
+Hyperthyroidism,Endocrinologist,Dr. Nguyen,4.4,Severe,22,2024-04-30 09:00:00
+Hypoglycemia,Endocrinologist,Dr. Lee,4.7,Mild,11,2024-05-03 12:00:00
+Hypoglycemia,Endocrinologist,Dr. Rodriguez,4.5,Moderate,16,2024-04-28 14:00:00
+Hypoglycemia,Endocrinologist,Dr. White,4.2,Severe,21,2024-04-27 15:00:00
+Osteoarthristis,Rheumatologist,Dr. Taylor,4.6,Mild,13,2024-04-28 09:00:00
+Osteoarthristis,Rheumatologist,Dr. Hernandez,4.8,Moderate,18,2024-05-02 16:00:00
+Osteoarthristis,Rheumatologist,Dr. Kim,4.3,Severe,23,2024-05-01 17:00:00
+Arthritis,Rheumatologist,Dr. Brown,4.7,Mild,10,2024-04-27 15:00:00
+Arthritis,Rheumatologist,Dr. Jones,4.5,Moderate,15,2024-05-03 16:00:00
+Arthritis,Rheumatologist,Dr. Anderson,4.2,Severe,20,2024-04-30 17:00:00
+(vertigo) Paroxysmal Positional Vertigo,Neurologist,Dr. Wilson,4.6,Mild,12,2024-05-01 11:00:00
+(vertigo) Paroxysmal Positional Vertigo,Neurologist,Dr. Perez,4.8,Moderate,17,2024-04-24 09:00:00
+(vertigo) Paroxysmal Positional Vertigo,Neurologist,Dr. Nguyen,4.4,Severe,22,2024-04-26 13:00:00
+Acne,Dermatologist,Dr. Lee,4.7,Mild,11,2024-05-03 12:00:00
+Acne,Dermatologist,Dr. Rodriguez,4.5,Moderate,16,2024-05-01 12:00:00
+Acne,Dermatologist,Dr. White,4.2,Severe,21,2024-05-03 17:00:00
+Urinary tract infection,Urologist,Dr. Taylor,4.6,Mild,13,2024-04-24 12:00:00
+Urinary tract infection,Urologist,Dr. Hernandez,4.8,Moderate,18,2024-04-28 12:00:00
+Urinary tract infection,Urologist,Dr. Kim,4.3,Severe,23,2024-04-24 13:00:00
+Psoriasis,Dermatologist,Dr. Brown,4.7,Mild,9,2024-04-25 12:00:00
+Psoriasis,Dermatologist,Dr. Jones,4.5,Moderate,14,2024-04-30 14:00:00
+Psoriasis,Dermatologist,Dr. Anderson,4.2,Severe,19,2024-04-30 10:00:00
+Impetigo,Dermatologist,Dr. Wilson,4.6,Mild,12,2024-04-24 16:00:00
+Impetigo,Dermatologist,Dr. Perez,4.8,Moderate,17,2024-04-28 14:00:00
+Impetigo,Dermatologist,Dr. Nguyen,4.3,Severe,22,2024-04-30 11:00:00
+Hypertension ,Cardiologist,Dr. Lee,4.7,Mild,11,2024-04-28 12:00:00
+Hypertension ,Cardiologist,Dr. Rodriguez,4.5,Moderate,16,2024-04-25 11:00:00
+Hypertension ,Cardiologist,Dr. White,4.2,Severe,21,2024-04-24 14:00:00

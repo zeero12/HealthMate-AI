@@ -1,0 +1,85 @@
+Disease,Drug,Age_Group,Severity,Sex
+Fungal infection,Fluconazole,Adult,Moderate,Both
+Fungal infection,Clotrimazole,Adult,Mild,Both
+Fungal infection,Terbinafine,Adult,Severe,Both
+Allergy,Cetirizine,Adult,Mild,Both
+Allergy,Loratadine,Adult,Moderate,Both
+Allergy,Diphenhydramine,Adult,Severe,Both
+GERD,Omeprazole,Adult,Mild,Both
+GERD,Ranitidine,Adult,Moderate,Both
+GERD,Pantoprazole,Adult,Severe,Both
+Chronic cholestasis,Ursodeoxycholic acid,Adult,Both,Both
+Drug Reaction,Corticosteroids,Adult,Both,Both
+Peptic ulcer diseae,Ranitidine,Adult,Mild,Both
+Peptic ulcer diseae,Esomeprazole,Adult,Moderate,Both
+Peptic ulcer diseae,Misoprostol,Adult,Severe,Both
+AIDS,Zidovudine,Adult,Both,Both
+Diabetes,Metformin,Adult,Both,Both
+Diabetes,Insulin,Adult,Both,Both
+Gastroenteritis,Oral rehydration solution,Both,Both,Both
+Bronchial Asthma,Albuterol,Adult,Mild,Both
+Bronchial Asthma,Fluticasone/Salmeterol,Adult,Moderate,Both
+Bronchial Asthma,Methylprednisolone,Adult,Severe,Both
+Hypertension,Lisinopril,Adult,Mild,Both
+Hypertension,Amlodipine,Adult,Moderate,Both
+Hypertension,Hydrochlorothiazide,Adult,Severe,Both
+Migraine,Sumatriptan,Adult,Mild,Both
+Migraine,Propranolol,Adult,Moderate,Both
+Migraine,Topiramate,Adult,Severe,Both
+Cervical spondylosis,Acetaminophen,Adult,Both,Both
+Cervical spondylosis,Ibuprofen,Adult,Both,Both
+Paralysis (brain hemorrhage),Physical therapy,Adult,Both,Both
+Jaundice,Ursodeoxycholic acid,Adult,Both,Both
+Malaria,Artemether/Lumefantrine,Adult,Both,Both
+Malaria,Chloroquine,Child,Both,Both
+Malaria,Quinine,Adult,Severe,Both
+Chicken pox,Acetaminophen,Child,Both,Both
+Chicken pox,Acyclovir,Adult,Severe,Both
+Dengue,Acetaminophen,Child,Both,Both
+Dengue,Intravenous fluids,Adult,Severe,Both
+Typhoid,Ciprofloxacin,Adult,Both,Both
+hepatitis A,Hepatitis A vaccine,Adult,Both,Both
+hepatitis B,Hepatitis B vaccine,Adult,Both,Both
+hepatitis C,Interferon-alpha,Adult,Both,Both
+hepatitis D,Interferon-alpha,Adult,Both,Both
+hepatitis E,Hepatitis E vaccine,Adult,Both,Both
+Alcoholic hepatitis,Disulfiram,Adult,Both,Both
+Alcoholic hepatitis,Naltrexone,Adult,Both,Both
+Tuberculosis,Isoniazid,Adult,Both,Both
+Tuberculosis,Rifampin,Adult,Both,Both
+Tuberculosis,Ethambutol,Adult,Severe,Both
+Common Cold,Acetaminophen,Child,Mild,Both
+Common Cold,Ibuprofen,Adult,Moderate,Both
+Common Cold,Phenylephrine,Adult,Severe,Both
+Pneumonia,Amoxicillin,Child,Mild,Both
+Pneumonia,Ceftriaxone,Adult,Moderate,Both
+Pneumonia,Levofloxacin,Adult,Severe,Both
+Dimorphic hemmorhoids(piles),Hydrocortisone,Adult,Both,Both
+Dimorphic hemmorhoids(piles),Witch hazel,Adult,Both,Both
+Dimorphic hemmorhoids(piles),Lidocaine,Adult,Severe,Both
+Heart attack,Aspirin,Adult,Both,Both
+Heart attack,Clopidogrel,Adult,Both,Both
+Heart attack,Thrombolytics,Adult,Severe,Both
+Varicose veins,Compression stockings,Adult,Both,Both
+Varicose veins,Sclerotherapy,Adult,Both,Both
+Varicose veins,Laser treatment,Adult,Severe,Both
+Hypothyroidism,Levothyroxine,Adult,Both,Both
+Hypothyroidism,Liothyronine,Adult,Severe,Both
+Hyperthyroidism,Methimazole,Adult,Both,Both
+Hyperthyroidism,Propylthiouracil,Adult,Severe,Both
+Hypoglycemia,Dextrose,Both,Both,Both
+Osteoarthristis,Acetaminophen,Adult,Mild,Both
+Osteoarthristis,Ibuprofen,Adult,Moderate,Both
+Osteoarthristis,Naproxen,Adult,Severe,Both
+Arthritis,Ibuprofen,Adult,Mild,Both
+Arthritis,Meloxicam,Adult,Moderate,Both
+Arthritis,Methotrexate,Adult,Severe,Both
+(vertigo) Paroymsal Positional Vertigo,Meclizine,Adult,Both,Both
+(vertigo) Paroymsal Positional Vertigo,Benztropine,Adult,Both,Both
+(vertigo) Paroymsal Positional Vertigo,Scopolamine,Adult,Severe,Both
+Acne,Benzoyl peroxide,Adult,Mild,Both
+Acne,Retinoids,Adult,Moderate,Both
+Acne,Oral contraceptives,Adult,Severe,Female
+Urinary tract infection,Nitrofurantoin,Adult,Both,Both
+Urinary tract infection,Ciprofloxacin,Adult,Both,Both
+Urinary tract infection,Trimethoprim/sulfamethoxazole,Adult,Severe,Both
