@@ -1,4 +1,4 @@
-# -HealthGuard-
+# -HealthMate-AI-
 **Your AI-Powered Health Companion for Precision Care"**
 
 Flow Chart that explains the whole project
